@@ -1,8 +1,8 @@
-
+import React from 'react';
 function Footer() {
   return (
     <>
-<footer class="text-center text-lg-start bg-danger text-muted fixed-bottom">
+<footer class="text-center text-lg-start bg-info text-muted fixed-bottom">
   
   <div class="text-center p-4" >
     © 2021 Copyright:
